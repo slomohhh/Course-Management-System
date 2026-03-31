@@ -1,6 +1,6 @@
 -- ============================================================
 -- University Course Management System
--- Author: Moh Khan
+-- Author: Mohammad Khan
 -- File: queries/enrollment_report.sql
 -- Description: Full SQL query library for administrative reporting —
 --              enrollment trends, prerequisite mapping, scheduling
