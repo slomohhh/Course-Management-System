@@ -1,6 +1,6 @@
 -- ============================================================
 -- University Course Management System
--- Author: Moh Khan
+-- Author: Mohammad Khan
 -- File: schema/create_tables.sql
 -- Description: Creates all tables with constraints, foreign keys,
 --              and cascading rules for the university database.
