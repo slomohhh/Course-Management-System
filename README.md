@@ -61,7 +61,7 @@ Built as part of a Database Management Systems course at SIUE, with a focus on d
 
 ```bash
 # Clone the repo
-git clone https://github.com/moh-k-06276933b/course-management-db.git
+git clone https://github.com/slomohhh/Course-Management-System.git
 cd course-management-db
 
 # Start MySQL and create the database
