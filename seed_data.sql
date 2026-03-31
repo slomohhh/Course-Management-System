@@ -1,6 +1,6 @@
 -- ============================================================
 -- University Course Management System
--- Author: Moh Khan
+-- Author: Mohammad Khan
 -- File: data/seed_data.sql
 -- Description: Seeds the database with departments, instructors,
 --              courses, 10,000+ students, enrollments, and schedules.
